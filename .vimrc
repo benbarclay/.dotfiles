@@ -8,6 +8,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'editorconfig/editorconfig-vim'
 Plugin 'chase/vim-ansible-yaml'
+Plugin 'pangloss/vim-javascript'
 
 call vundle#end()
 
