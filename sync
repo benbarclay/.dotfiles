@@ -1,0 +1,5 @@
+#!/bin/sh
+
+stow fish
+stow bash
+stow vim
